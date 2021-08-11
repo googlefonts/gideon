@@ -8,7 +8,9 @@ DisplayStrings = (
 "/dotaccent",
 "/dblgravecomb/adblgrave",
 "AÁ/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Adblgrave Ä/Adotbelow À/Ahookabove/Ainvertedbreve/Amacron/Aogonek Å/Aringacute ÃÆ/AEacute BC/Cacute/Ccaron Ç/Ccircumflex/Cdotaccent D/DZcaron Ð/Dcaron/Dcroat/Dzcaron EÉ/Ebreve/Ecaron Ê/Ecircumflexacute/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexhookabove/Ecircumflextilde/Edblgrave Ë/Edotaccent/Edotbelow È/Ehookabove/Einvertedbreve/Emacron/Eogonek/Etilde FG/Gbreve/Gcaron/Gcircumflex/Gcommaaccent/Gdotaccent H/Hbar/Hcircumflex IÍ/Ibreve Î/Idblgrave Ï/Idotaccent/Idotbelow Ì/Ihookabove/Iinvertedbreve/Imacron/Iogonek/Itilde J/Jcircumflex K/Kcommaaccent L/LJ/Lacute/Lcaron/Lcommaaccent/Ldot/Lj/Lslash MN/NJ/Nacute/Ncaron/Ncommaaccent/Eng/Nj ÑOÓ/Obreve Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek Ø/Oslashacute Õ/Otildemacron/OE PÞQR/Racute/Rcaron/Rcommaaccent/Rdblgrave/Rinvertedbreve S/Sacute/Scaron/Scedilla/Scircumflex/Scommaaccent/Germandbls/Schwa T/Tbar/Tcaron/Tcedilla/Tcommaaccent UÚ/Ubreve Û/Udblgrave Ü/Udotbelow Ù/Uhookabove/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Uhungarumlaut/Uinvertedbreve/Umacron/Uogonek/Uring/Utilde VW/Wacute/Wcircumflex/Wdieresis/Wgrave XYÝ/Ycircumflex/Ydieresis/Ydotbelow/Ygrave/Yhookabove/Ymacron/Ytilde Z/Zacute/Zcaron/Zdotaccent aá/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adblgrave ä/adotbelow à/ahookabove/ainvertedbreve/amacron/aogonek å/aringacute ãæ/aeacute bc/cacute/ccaron ç/ccircumflex/cdotaccent dð/dcaron/dcroat/dzcaron eé/ebreve/ecaron ê/ecircumflexacute/ecircumflexdotbelow/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/edblgrave ë/edotaccent/edotbelow è/ehookabove/einvertedbreve/emacron/eogonek/etilde/schwa fg/gbreve/gcaron/gcircumflex/gcommaaccent/gdotaccent h/hbar/hcircumflex i/idotless í/ibreve/icaron î/idblgrave ï/idotaccent/idotbelow ì/ihookabove/iinvertedbreve/imacron/iogonek/itilde j/jdotless/jcircumflex k/kcommaaccent/kgreenlandic l/lacute/lcaron/lcommaaccent/ldot/lj/lslash mn/nacute/ncaron/ncommaaccent/eng/nj ñoó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/oinvertedbreve/omacron/oogonek ø/oslashacute õ/otildemacron/oe pþqr/racute/rcaron/rcommaaccent/rdblgrave/rinvertedbreve s/sacute/scaron/scedilla/scircumflex/scommaaccent ßt/tbar/tcaron/tcedilla/tcommaaccent uú/ubreve û/udblgrave ü/udotbelow ù/uhookabove/uhorn/uhornacute/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde/uhungarumlaut/uinvertedbreve/umacron/uogonek/uring/utilde vw/wacute/wcircumflex/wdieresis/wgrave xyý/ycircumflex/ydieresis/ydotbelow/ygrave/yhookabove/ymacron/ytilde z/zacute/zcaron/zdotaccent/f_f/f_f_i/f_f_l/fi/fl/s_t/A.sc/K.sc ªº/pi 0123456789/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf ¹²³/foursuperior/fraction ½¼¾.,:;/ellipsis !¡?¿·/bullet *#///backslash/periodcentered.loclCAT (){}[]-­/endash/emdash/hyphentwo _/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/leftanglebracket-math/rightanglebracket-math/space/nbspace \015/.notdef/Euro/cedi ¢/colonsign ¤$/dong/florin/franc/guarani/kip/lira/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥/bulletoperator/commercialMinusSign/divisionslash +/minus ×÷=/notequal ></greaterequal/lessequal ±/approxequal ~¬^/infinity/integral/Omega/Delta/product/summation/radical µ/partialdiff %/perthousand/lozenge/apple @&¶§©®/trademark °/minute/second |¦/dagger/daggerdbl/numero/apostrophemod/doubleprimemod/primemod/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/caroncomb.alt/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/dblgravecomb/breveinvertedcomb/commaturnedabovecomb/horncomb/dotbelowcomb/dieresisbelowcomb/commaaccentcomb/cedillacomb/ogonekcomb/brevebelowcomb/macronbelowcomb/strokeshortcomb ¨/dotaccent `´/hungarumlaut/circumflex/caron/breve/ring/tilde ¯¸/ogonek/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/acutecomb.case/hungarumlautcomb.case/caroncomb.alt.case/circumflexcomb.case/caroncomb.case/brevecomb.case/ringcomb.case/tildecomb.case/macroncomb.case/hookabovecomb.case/dblgravecomb.case/breveinvertedcomb.case/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb/brevecomb_acutecomb.case/brevecomb_gravecomb.case/brevecomb_hookabovecomb.case/brevecomb_tildecomb.case/circumflexcomb_acutecomb.case/circumflexcomb_gravecomb.case/circumflexcomb_hookabovecomb.case/circumflexcomb_tildecomb.case/NULL/newGlyph/newGlyph.001",
-A
+A,
+"aáa/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adblgrave ä/adotbelow à/ahookabove/ainvertedbreve/amacron/aogonek å/aringacute ã",
+"OÓ/Obreve Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek Õ/Otildemacron"
 );
 classes = (
 {
@@ -8620,7 +8622,7 @@ unicode = 017B;
 },
 {
 glyphname = a;
-lastChange = "2021-08-11 05:19:26 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 anchors = (
@@ -8634,7 +8636,7 @@ position = "{1813, 10}";
 },
 {
 name = top;
-position = "{856, 1912}";
+position = "{916, 1912}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -8763,7 +8765,7 @@ unicode = 0061;
 },
 {
 glyphname = aacute;
-lastChange = "2021-08-11 05:12:05 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -8772,7 +8774,7 @@ name = a;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 597, 0}";
+transform = "{1, 0, 0, 1, 657, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -8784,7 +8786,7 @@ unicode = 00E1;
 },
 {
 glyphname = abreve;
-lastChange = "2021-08-11 05:12:05 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -8793,7 +8795,7 @@ name = a;
 },
 {
 name = brevecomb;
-transform = "{1, 0, 0, 1, 409, 0}";
+transform = "{1, 0, 0, 1, 469, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -8805,7 +8807,7 @@ unicode = 0103;
 },
 {
 glyphname = abreveacute;
-lastChange = "2021-08-11 05:03:21 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -8814,7 +8816,7 @@ name = a;
 },
 {
 name = brevecomb_acutecomb;
-transform = "{1, 0, 0, 1, 409, 0}";
+transform = "{1, 0, 0, 1, 469, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -8825,7 +8827,7 @@ unicode = 1EAF;
 },
 {
 glyphname = abrevedotbelow;
-lastChange = "2021-08-11 05:03:21 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -8838,7 +8840,7 @@ transform = "{1, 0, 0, 1, 672, 0}";
 },
 {
 name = brevecomb;
-transform = "{1, 0, 0, 1, 409, 0}";
+transform = "{1, 0, 0, 1, 469, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -8849,7 +8851,7 @@ unicode = 1EB7;
 },
 {
 glyphname = abrevegrave;
-lastChange = "2021-08-11 05:03:21 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -8858,7 +8860,7 @@ name = a;
 },
 {
 name = brevecomb_gravecomb;
-transform = "{1, 0, 0, 1, 409, 0}";
+transform = "{1, 0, 0, 1, 469, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -8869,7 +8871,7 @@ unicode = 1EB1;
 },
 {
 glyphname = abrevehookabove;
-lastChange = "2021-08-11 05:03:21 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -8878,7 +8880,7 @@ name = a;
 },
 {
 name = brevecomb_hookabovecomb;
-transform = "{1, 0, 0, 1, 409, 0}";
+transform = "{1, 0, 0, 1, 469, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -8889,7 +8891,7 @@ unicode = 1EB3;
 },
 {
 glyphname = abrevetilde;
-lastChange = "2021-08-11 05:03:21 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -8898,7 +8900,7 @@ name = a;
 },
 {
 name = brevecomb_tildecomb;
-transform = "{1, 0, 0, 1, 409, 0}";
+transform = "{1, 0, 0, 1, 469, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -8909,7 +8911,7 @@ unicode = 1EB5;
 },
 {
 glyphname = acaron;
-lastChange = "2021-08-11 05:00:14 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -8918,7 +8920,7 @@ name = a;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 264, 0}";
+transform = "{1, 0, 0, 1, 324, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -8929,7 +8931,7 @@ unicode = 01CE;
 },
 {
 glyphname = acircumflex;
-lastChange = "2021-08-11 05:12:05 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -8938,7 +8940,7 @@ name = a;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 270, 0}";
+transform = "{1, 0, 0, 1, 330, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -8950,7 +8952,7 @@ unicode = 00E2;
 },
 {
 glyphname = acircumflexacute;
-lastChange = "2021-08-11 05:00:13 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -8959,7 +8961,7 @@ name = a;
 },
 {
 name = circumflexcomb_acutecomb;
-transform = "{1, 0, 0, 1, 270, 0}";
+transform = "{1, 0, 0, 1, 330, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -8970,7 +8972,7 @@ unicode = 1EA5;
 },
 {
 glyphname = acircumflexdotbelow;
-lastChange = "2021-08-11 05:00:13 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -8983,7 +8985,7 @@ transform = "{1, 0, 0, 1, 672, 0}";
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 270, 0}";
+transform = "{1, 0, 0, 1, 330, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -8994,7 +8996,7 @@ unicode = 1EAD;
 },
 {
 glyphname = acircumflexgrave;
-lastChange = "2021-08-11 05:00:12 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -9003,7 +9005,7 @@ name = a;
 },
 {
 name = circumflexcomb_gravecomb;
-transform = "{1, 0, 0, 1, 270, 0}";
+transform = "{1, 0, 0, 1, 330, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -9014,7 +9016,7 @@ unicode = 1EA7;
 },
 {
 glyphname = acircumflexhookabove;
-lastChange = "2021-08-11 05:00:12 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -9023,7 +9025,7 @@ name = a;
 },
 {
 name = circumflexcomb_hookabovecomb;
-transform = "{1, 0, 0, 1, 270, 0}";
+transform = "{1, 0, 0, 1, 330, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -9034,7 +9036,7 @@ unicode = 1EA9;
 },
 {
 glyphname = acircumflextilde;
-lastChange = "2021-08-11 05:00:11 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -9043,7 +9045,7 @@ name = a;
 },
 {
 name = circumflexcomb_tildecomb;
-transform = "{1, 0, 0, 1, 270, 0}";
+transform = "{1, 0, 0, 1, 330, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -9054,7 +9056,7 @@ unicode = 1EAB;
 },
 {
 glyphname = adblgrave;
-lastChange = "2021-08-11 05:08:23 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -9063,7 +9065,7 @@ name = a;
 },
 {
 name = dblgravecomb;
-transform = "{1, 0, 0, 1, -78, 0}";
+transform = "{1, 0, 0, 1, -18, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -9074,7 +9076,7 @@ unicode = 0201;
 },
 {
 glyphname = adieresis;
-lastChange = "2021-08-11 05:12:05 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -9083,7 +9085,7 @@ name = a;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 373, 0}";
+transform = "{1, 0, 0, 1, 433, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -9115,7 +9117,7 @@ unicode = 1EA1;
 },
 {
 glyphname = agrave;
-lastChange = "2021-08-11 05:12:05 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -9124,7 +9126,7 @@ name = a;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 284, 0}";
+transform = "{1, 0, 0, 1, 344, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -9136,7 +9138,7 @@ unicode = 00E0;
 },
 {
 glyphname = ahookabove;
-lastChange = "2021-08-11 05:00:17 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -9145,7 +9147,7 @@ name = a;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 492, 0}";
+transform = "{1, 0, 0, 1, 552, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -9156,7 +9158,7 @@ unicode = 1EA3;
 },
 {
 glyphname = ainvertedbreve;
-lastChange = "2021-08-11 05:00:17 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -9165,7 +9167,7 @@ name = a;
 },
 {
 name = breveinvertedcomb;
-transform = "{1, 0, 0, 1, 478, 0}";
+transform = "{1, 0, 0, 1, 538, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -9176,7 +9178,7 @@ unicode = 0203;
 },
 {
 glyphname = amacron;
-lastChange = "2021-08-11 05:00:17 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -9185,7 +9187,7 @@ name = a;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 392, 0}";
+transform = "{1, 0, 0, 1, 452, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -9219,7 +9221,7 @@ unicode = 0105;
 },
 {
 glyphname = aring;
-lastChange = "2021-08-11 05:12:05 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -9228,7 +9230,7 @@ name = a;
 },
 {
 name = ringcomb;
-transform = "{1, 0, 0, 1, 502, 0}";
+transform = "{1, 0, 0, 1, 562, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -9240,7 +9242,7 @@ unicode = 00E5;
 },
 {
 glyphname = aringacute;
-lastChange = "2021-08-11 05:00:24 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -9249,11 +9251,11 @@ name = a;
 },
 {
 name = ringcomb;
-transform = "{1, 0, 0, 1, 502, 0}";
+transform = "{1, 0, 0, 1, 562, 0}";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 620, 646}";
+transform = "{1, 0, 0, 1, 680, 646}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -9264,7 +9266,7 @@ unicode = 01FB;
 },
 {
 glyphname = atilde;
-lastChange = "2021-08-11 05:12:05 +0000";
+lastChange = "2021-08-11 05:22:52 +0000";
 layers = (
 {
 components = (
@@ -9273,7 +9275,7 @@ name = a;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 333, 0}";
+transform = "{1, 0, 0, 1, 393, 0}";
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
