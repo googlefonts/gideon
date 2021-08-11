@@ -21,8 +21,54 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "©2009-2021 Robert E. Leuschke";
-date = "2021-04-22 05:48:35 +0000";
+copyright = "Copyright 2009 2021 The Gideon Pro Project Authors (https://github.com/googlefonts/gideon)";
+customParameters = (
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = GOOG;
+},
+{
+name = "Disable Subroutines";
+value = 1;
+},
+{
+name = glyphOrder;
+value = (
+.notdef,
+CR,
+NULL,
+space,
+nbspace
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
+}
+);
+date = "2021-08-11 18:11:20 +0000";
 designer = "Robert E. Leuschke";
 designerURL = www.typesetit.com;
 disablesNiceNames = 1;
@@ -194,6 +240,105 @@ xHeight = 1912;
 }
 );
 glyphs = (
+{
+glyphname = .notdef;
+lastChange = "2021-08-11 05:19:26 +0000";
+layers = (
+{
+layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"2002 0 LINE",
+"2002 3200 LINE",
+"250 3200 LINE",
+"250 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1118 1494 LINE",
+"1736 250 LINE",
+"500 250 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"500 2737 LINE",
+"1062 1605 LINE",
+"500 474 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1173 1605 LINE",
+"1752 2770 LINE",
+"1752 441 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"504 2950 LINE",
+"1731 2950 LINE",
+"1118 1717 LINE"
+);
+}
+);
+width = 2273;
+}
+);
+note = .notdef;
+},
+{
+glyphname = CR;
+lastChange = "2021-08-11 05:10:26 +0000";
+layers = (
+{
+layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
+width = 1320;
+}
+);
+note = CR;
+unicode = 000D;
+},
+{
+glyphname = NULL;
+lastChange = "2021-08-11 05:10:26 +0000";
+layers = (
+{
+layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
+width = 0;
+}
+);
+note = NULL;
+},
+{
+glyphname = space;
+layers = (
+{
+layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
+width = 1320;
+}
+);
+note = space;
+unicode = 0020;
+},
+{
+glyphname = nbspace;
+layers = (
+{
+layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
+width = 1485;
+}
+);
+note = nbspace;
+unicode = 00A0;
+},
 {
 glyphname = A;
 lastChange = "2021-08-11 05:19:26 +0000";
@@ -28357,94 +28502,6 @@ width = 1073;
 unicode = 27E9;
 },
 {
-glyphname = space;
-layers = (
-{
-layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
-width = 1320;
-}
-);
-note = space;
-unicode = 0020;
-},
-{
-glyphname = nbspace;
-layers = (
-{
-layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
-width = 1485;
-}
-);
-note = nbspace;
-unicode = 00A0;
-},
-{
-glyphname = CR;
-lastChange = "2021-08-11 05:10:26 +0000";
-layers = (
-{
-layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
-width = 1320;
-}
-);
-note = CR;
-unicode = 000D;
-},
-{
-glyphname = .notdef;
-lastChange = "2021-08-11 05:19:26 +0000";
-layers = (
-{
-layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
-paths = (
-{
-closed = 1;
-nodes = (
-"2002 0 LINE",
-"2002 3200 LINE",
-"250 3200 LINE",
-"250 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1118 1494 LINE",
-"1736 250 LINE",
-"500 250 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"500 2737 LINE",
-"1062 1605 LINE",
-"500 474 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1173 1605 LINE",
-"1752 2770 LINE",
-"1752 441 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"504 2950 LINE",
-"1731 2950 LINE",
-"1118 1717 LINE"
-);
-}
-);
-width = 2273;
-}
-);
-note = .notdef;
-},
-{
 glyphname = Euro;
 lastChange = "2021-08-11 05:19:26 +0000";
 layers = (
@@ -42890,17 +42947,6 @@ width = 407;
 );
 },
 {
-glyphname = NULL;
-lastChange = "2021-08-11 05:10:26 +0000";
-layers = (
-{
-layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
-width = 0;
-}
-);
-note = NULL;
-},
-{
 glyphname = newGlyph;
 lastChange = "2021-08-11 05:10:26 +0000";
 layers = (
@@ -45312,5 +45358,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 4000;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
