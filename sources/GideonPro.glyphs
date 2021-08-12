@@ -9,7 +9,8 @@ DisplayStrings = (
 "\012HH/Placeholder HO/Placeholder OO\012FngAENAHHGHIJNGHRyonandaAOenguoocionjNuOPQROSTHUVWOXYOZHL,YONH\012/Placeholder a/space/Placeholder e/space/Placeholder i/space/Placeholder o/space/Placeholder u/space/space u/space",
 "on/ohookabove",
 "/h.sc/h.sc/Placeholder/h.sc/o.sc/Placeholder/o.sc/o.sc \012/a.sc/b.sc/c.sc/d.sc/e.sc/f.sc/g.sc/o.sc/h.sc/i.sc/j.sc/k.sc/l.sc/m.sc/n.sc/o.sc/p.sc/q.sc/r.sc/o.sc/s.sc/t.sc/u.sc/o.sc/v.sc/o.sc/w.sc/o.sc/x.sc/o.sc/y.sc/o.sc/z.sc/o.sc",
-"zc1+2/minus ×÷=/notequal ></greaterequal/lessequal ±/approxequal ~¬"
+"zc1+2/minus ×÷=/notequal ></greaterequal/lessequal ±/approxequal ~¬",
+"/Tcedilla/tcommaaccent"
 );
 classes = (
 {
@@ -12470,7 +12471,7 @@ unicode = 0164;
 },
 {
 glyphname = Tcedilla;
-lastChange = "2021-08-12 01:25:21 +0000";
+lastChange = "2021-08-12 02:14:51 +0000";
 layers = (
 {
 background = {
@@ -12486,11 +12487,7 @@ transform = "{1, 0, 0, 1, 202, 13}";
 };
 components = (
 {
-name = T;
-},
-{
-name = cedillacomb;
-transform = "{1, 0, 0, 1, 202, 13}";
+name = Tcommaaccent;
 }
 );
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
@@ -28379,7 +28376,7 @@ unicode = 0165;
 },
 {
 glyphname = tcedilla;
-lastChange = "2021-08-12 01:25:21 +0000";
+lastChange = "2021-08-12 02:15:10 +0000";
 layers = (
 {
 background = {
@@ -28393,15 +28390,6 @@ transform = "{1, 0, 0, 1, 99, 0}";
 }
 );
 };
-components = (
-{
-name = t;
-},
-{
-name = cedillacomb;
-transform = "{1, 0, 0, 1, 99, 0}";
-}
-);
 layerId = "274E8830-0A80-4149-8BE8-CF3C4CCD3F6F";
 width = 376;
 }
