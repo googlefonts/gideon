@@ -28,7 +28,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2009-2021 The Gideon Pro Project Authors (https://github.com/googlefonts/gideon)";
+copyright = "Copyright 2009-2021 The Gideon Roman Project Authors (https://github.com/googlefonts/gideon)";
 customParameters = (
 {
 name = licenseURL;
@@ -79,7 +79,7 @@ date = "2021-08-11 18:11:20 +0000";
 designer = "Robert E. Leuschke";
 designerURL = www.typesetit.com;
 disablesNiceNames = 1;
-familyName = "Gideon Pro";
+familyName = "Gideon Roman";
 featurePrefixes = (
 {
 automatic = 1;
@@ -74272,6 +74272,7 @@ y.sc = -34;
 "@MMK_R_M" = -15;
 "@MMK_R_c" = -10.25;
 "@MMK_R_comma" = -30;
+"@MMK_R_hsc" = -45;
 "@MMK_R_hyphen" = -20;
 "@MMK_R_i" = -5;
 "@MMK_R_j" = -10;
@@ -74281,7 +74282,6 @@ y.sc = -34;
 "@MMK_R_v" = -31;
 "@MMK_R_x" = -20.75;
 "@MMK_R_y" = -10.25;
-"@MMK_R_hsc" = -45;
 };
 "@MMK_L_K" = {
 "@MMK_R_O" = -26;
@@ -74848,5 +74848,5 @@ tH = "27";
 };
 };
 versionMajor = 2;
-versionMinor = 7;
+versionMinor = 10;
 }
